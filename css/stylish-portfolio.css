@@ -35,12 +35,12 @@ h6 {
   font-weight: 700;
 }
 
-.text-faded {
-  color: rgba(255, 255, 255, 0.7);
+h3 {
+  color: white;
 }
 
-h3 .mb-5 {
-  color: #ffffff;
+.text-faded {
+  color: rgba(255, 255, 255, 0.7);
 }
 
 /* Map */
@@ -91,7 +91,7 @@ h3 .mb-5 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/code-placeholder.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/code-placeholder2.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
